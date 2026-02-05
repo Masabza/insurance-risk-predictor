@@ -1,0 +1,22 @@
+# Python standard ignores
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.DS_Store
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+notebooks/.ipynb_checkpoints/
+data/raw/
+models/*.pkl
+*.csv
+.azure/
+.streamlit/secrets.toml
+# IDE files
+.vscode/
+.idea/
